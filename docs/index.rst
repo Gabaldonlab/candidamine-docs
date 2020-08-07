@@ -18,11 +18,17 @@ Main site: http://candidamine.org/
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :caption: Table of Contents
+   :maxdepth: 4
    :glob:
 
    *
+.. toctree::
+   :caption: Technical Docs
+   :maxdepth: 4
+   :hidden:
 
+   technical
 
 
 Indices and tables
