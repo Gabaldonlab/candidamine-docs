@@ -29,7 +29,6 @@ Contents:
    user_guide/lists
    user_guide/mymine
    user_guide/api
-   
 .. toctree::
    :caption: Technical Docs
    :maxdepth: 4
