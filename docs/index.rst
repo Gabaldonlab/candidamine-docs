@@ -35,7 +35,6 @@ Contents:
    :caption: Technical Docs
    :maxdepth: 4
    :glob:
-
    
    tech_docs/technical
    tech_docs/data
@@ -43,10 +42,5 @@ Contents:
    tech_docs/issues
 
 
-#Indices and tables
-#==================
 
-#* :ref:`genindex`
-#* :ref:`modindex`
-#* :ref:`search`
 
