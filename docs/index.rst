@@ -34,7 +34,7 @@ Contents:
 .. toctree::
    :caption: Technical Docs
    :maxdepth: 4
-   :hidden:
+   :glob:
 
    
    tech_docs/technical
@@ -43,10 +43,10 @@ Contents:
    tech_docs/issues
 
 
-Indices and tables
-==================
+#Indices and tables
+#==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+#* :ref:`genindex`
+#* :ref:`modindex`
+#* :ref:`search`
 
