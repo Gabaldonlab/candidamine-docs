@@ -1,17 +1,12 @@
 CandidaMine Overview 
 ===========================
 
-.. main_page:
+.. _main_page:
 .. figure:: ../images/header.png
    :alt: CandidaMine main page
 
-   This is the caption of the figure (a simple paragraph).
+   CandidaMine main page.
 
-
-
-   
-   
-   
 Figure :numref:`main_page` summarize of the CandidaMine layout: 
 
     *Home* – The home page for CandidaMine.
