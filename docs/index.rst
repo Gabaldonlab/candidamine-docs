@@ -15,7 +15,6 @@ This tutorial is aimed at giving users an introduction to the different parts of
 Main site: http://candidamine.org/
 
 
-Contents:
 
 .. toctree::
    :caption: User Guide
@@ -29,10 +28,12 @@ Contents:
    user_guide/lists
    user_guide/mymine
    user_guide/api
+   
+   
 .. toctree::
    :caption: Technical Docs
    :maxdepth: 4
-   :hidden:
+   :glob:
    
    tech_docs/technical
    tech_docs/data
