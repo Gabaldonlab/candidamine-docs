@@ -18,17 +18,29 @@ Main site: http://candidamine.org/
 Contents:
 
 .. toctree::
-   :caption: Table of Contents
+   :caption: User Guide
    :maxdepth: 4
    :glob:
 
-   *
+   user_guide/overview
+   user_guide/reports
+   user_guide/templates
+   user_guide/query
+   user_guide/lists
+   user_guide/mymine
+   user_guide/api
+   
+   
 .. toctree::
    :caption: Technical Docs
    :maxdepth: 4
    :hidden:
 
-   technical
+   
+   tech_docs/technical
+   tech_docs/data
+   tech_docs/source_code
+   tech_docs/issues
 
 
 Indices and tables
