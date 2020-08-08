@@ -1,11 +1,10 @@
 CandidaMine Overview 
 ===========================
 
+.. figure:: ../images/header.png
+   :alt: CandidaMine main page
 
 Figure 1 summirize of the CandidaMine layout: 
-
-.. image:: ../images/header.png
-
 
     *Home* – The home page for CandidaMine.
 
