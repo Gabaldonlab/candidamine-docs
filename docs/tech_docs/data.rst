@@ -1,1 +1,4 @@
-.. include:: ../AUTHORS.rst
+============
+Data Sources
+============
+

@@ -1,1 +1,4 @@
-.. include:: ../AUTHORS.rst
+============
+Source code
+============
+

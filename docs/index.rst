@@ -30,11 +30,10 @@ Contents:
    user_guide/mymine
    user_guide/api
    
-   
 .. toctree::
    :caption: Technical Docs
    :maxdepth: 4
-   :glob:
+   :hidden:
    
    tech_docs/technical
    tech_docs/data
