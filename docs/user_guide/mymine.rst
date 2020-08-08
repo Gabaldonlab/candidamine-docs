@@ -1,5 +1,5 @@
 ============
-mymine
+MyMine
 ============
 
 Install the package with pip::
