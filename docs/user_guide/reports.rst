@@ -9,6 +9,8 @@ Example by keyword search -> search for ASH1. Clicking on an item in the result 
 .. _report_page:
 .. figure:: ../images/header.png
    :alt: ASH1 Report page
+   :figclass: align-center
+
 
    **ASH1** Report page.
 
@@ -26,6 +28,7 @@ A **Summary** section near the top of the report provides information on the gen
 .. figure:: images/report_page_summary.png
    :width: 696
    :alt: Summary section of report page
+   :figclass: align-center
   
    Summary section of report page.
    
