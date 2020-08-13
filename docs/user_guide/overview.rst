@@ -1,14 +1,21 @@
 CandidaMine Overview 
 ===========================
 
+
+Home Page 
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+Figure :numref:`main_page` summarize of the CandidaMine Home page layout and the top menu items: 
+
 .. _main_page:
 .. figure:: ../images/header.png
    :alt: CandidaMine main page
 
    CandidaMine main page.
 
-Figure :numref:`main_page` summarize of the CandidaMine layout: 
-
+The top menu items are as the following :
     *Home* – The home page for CandidaMine.
 
     *Templates* – List of templates that users may select from based on the nature of their query.
@@ -27,8 +34,7 @@ Figure :numref:`main_page` summarize of the CandidaMine layout:
     *MyMine* – Once users are logged in, MyMine serves as portal for accessing saved lists and saved templates. Users may also check their account details and manage their account using MyMine.
 
 
-Home Page 
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Searching CandidaMine
