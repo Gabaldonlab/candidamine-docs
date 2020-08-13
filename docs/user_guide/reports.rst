@@ -23,9 +23,9 @@ Summary
 A **Summary** section near the top of the report provides information on the gene such as its length, chromosome location, and strand information as shown in :numref:`report_page_summary`.
 
 .. _report_page_summary:
-.. image:: images/report_page_summary.png
-  :width: 696
-  :alt: Summary section of report page
+.. figure:: images/report_page_summary.png
+   :width: 696
+   :alt: Summary section of report page
   
    Summary section of report page.
    
