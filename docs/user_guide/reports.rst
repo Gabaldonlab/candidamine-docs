@@ -13,14 +13,14 @@ Example by keyword search -> search for ASH1. Clicking on an item in the result 
    **ASH1** Report page.
 
 
-The report page Figure :numref:`report_page` provides a complete description for this gene. The header displays the database identifier, followed by the information from the summary window for the gene (organism, symbol, source, etc.) **Biotype** indicates the type of gene; in this case the type is protein coding.
+The report page :numref:`report_page` provides a complete description for this gene. The header displays the database identifier, followed by the information from the summary window for the gene (organism, symbol, source, etc.) **Biotype** indicates the type of gene; in this case the type is protein coding.
 
 The contents of the report page are divided into categories based on the type of information provided.
 
 Summary
 ~~~~~~~
 
-A **Summary** section near the top of the report provides information on the gene such as its length, chromosome location, and strand information as shown in Figure :numref:`report_page_summary`.
+A **Summary** section near the top of the report provides information on the gene such as its length, chromosome location, and strand information as shown in :numref:`report_page_summary`.
 
 .. _report_page_summary:
 .. image:: images/report_page_summary.png
