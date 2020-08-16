@@ -2,11 +2,7 @@
 MyMine
 ============
 
-What is MyMine?
-----------------------
-
-
-MyMine is your personal InterMine account where you can manage your lists, queries, templates etc, share your lists with other users and create favourite templates and lists.  You need to create a different account for each InterMine database you use.   You can access your MyMine account from the main tabs.  The MyMine tab then has a series of subtabs for managing lists, templates, queries and your account details etc:
+MyMine is your personal InterMine account where you can manage your lists, queries, templates etc, share your lists with other users and create favourite templates and lists. You can access your MyMine account from the main tabs. The MyMine tab then has a series of subtabs for managing lists, templates, queries and your account details etc:
 
 
 .. image:: ../_images/MyMinetab.tiff
@@ -14,7 +10,7 @@ MyMine is your personal InterMine account where you can manage your lists, queri
 
 
 
-How do I create an account?
+Create an account
 -------------------------------------
 
 
@@ -31,7 +27,7 @@ Lists
 -------
 
 
-The lists tab provides details of all the lists you have made.  If you have lists that need upgrading, these will be shown first.  Lists may need upgrading if some of the identifiers have become outdated between InterMine data releases.  To upgrade a list click on the green arrow, this will take you to :ref:`listconfirmationpage`.
+The lists tab provides details of all the lists you have made.  If you have lists that need upgrading, these will be shown first.  Lists may need upgrading if some of the identifiers have become outdated between CandidaMine data releases.  To upgrade a list click on the green arrow, this will take you to :ref:`listconfirmationpage`.
 
 
 .. image:: ../_images/myminelistupgrade.png
@@ -110,8 +106,6 @@ The account details tab allows you set various aspects of your account as follow
 **Your preferred email address:**  Set the email address you prefer to use for correspondence - for example if someone shares a list with you. This could be different to the email you use to login to your account.
 
 
-**The URL of your preferred Galaxy instance:**  Results can be exported to `Galaxy <http://galaxyproject.org/>`_  (see :ref:`resultsgalaxy`).  By default the main galaxy server is set, however if you routinely use another galaxy instance you can set this to be the default here.
-
 
 **API access key:**  
 
@@ -120,16 +114,4 @@ API keys are used to access the features of the `InterMine API <https://intermin
 
 
 
-
-Are my lists and searches stored permanently?
----------------------------------------------------------------
-
-
-Yes.  When you have a MyMine account any lists or queries you save are stored permanently. 
-
-
-What happens to my lists and queries when you make a new database release?
-----------------------------------------------------------------------------------------------------------
-
-
-All lists and queries are transferred to the new database release.  Sometimes identifiers in lists become outdated and you will be asked to update your list (see :ref:`listsupgrade`).  Occasionally we have to make changes to the underlying data model which make affect any queries you have saved.  Please contact the relevant InterMine (:ref:`contact`) if you would like any further information or help about such a query.
+For each new database release, all lists and queries are transferred to the new database release.  Sometimes identifiers in lists become outdated and you will be asked to update your list (see :ref:`listsupgrade`).  Occasionally we have to make changes to the underlying data model which make affect any queries you have saved.  Please contact us (:ref:`contact`) if you would like any further information or help about such a query.
