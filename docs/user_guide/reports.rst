@@ -2,7 +2,7 @@
 Report Page
 ============
 
-Every object (e.g., Gene, Protein, Exon) in *CandidaMine* has a detialed report page. The layout of the report page depends on the data available for the object. Report pages may be accessed by clicking on an object name in the results table after running a query.
+Every object (e.g., Gene, Protein, Exon) in *CandidaMine* has a detailed report page. The layout of the report page depends on the data available for the object. Report pages may be accessed by clicking on an object name in the results table after running a query.
 
 Example by keyword search -> search for ASH1. Clicking on an item in the result table will bring up its report page. For example clickng on ASH1 in Candida albicans with show its report page.
 
