@@ -37,7 +37,7 @@ To get all insertion and deletions in coding regions you can run  `Insertions/De
 The templates has some filters to constrains the search for organism of interset , specfic gene, and optionals strains and study PMID as shown in :numref:`INDELS_CDS`.
 
 .. _INDELS_CDS:
-.. figure:: images/INDELS_CDS.png
+.. figure:: ../images/INDELS_CDS.png
   :alt: Insertions/Deletions in CDS region
   :figclass: align-center
 
