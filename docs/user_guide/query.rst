@@ -16,7 +16,7 @@ Examples
 
 The following examples will provided details steps on how to use Query Buidler to build your own custom queries.
 
-Example : Querying for protein coding genes
+Example : Querying for INDELS in coding regions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
