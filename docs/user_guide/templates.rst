@@ -85,7 +85,7 @@ Genes to Proteins
 
 INDELS in coding regions 
 ~~~~~~~~~
-To get all insertion and deletions in coding regions you can run  `Insertions/Deletions in CDS region <http://candidamine.org/candidamine/template.do?name=INDELS_CDS&scope=all/>`_ template.
+To get all insertion and deletions in coding regions you can run  `Insertions/Deletions in CDS region <http://candidamine.org/candidamine/template.do?name=INDELS_CDS&scope=all>`_ template.
 The templates has some filters to constrains the search for organism of interset , specfic gene, and optionals strains and study PMID as shown in :numref:`INDELS_CDS`.
 
 .. _INDELS_CDS:
