@@ -32,19 +32,5 @@ Building a new query  starts  by choosing a data type of interest e.g gene or tr
   A step by step example on how to build a custom query to retrieve all insertion and deletions within the coding region of a target gene fitler by some strains. A) Select Object of interest in this case is Sequences altarion to begin designing the query. B) add basic attribute to the query result and constraint type attribute to be Deletion and Insertion. C) Constrain overlapping features to be only of type Exons. D) Add basic attribute of the gene from the Exon object and constain Secondary Identifier to specific gene of interest. E) Constrain Variant strain identifier. F) Final layout of the template after specifying all attributes to show in the result and the contains to control the final output.
   
   ..
-
-Example 2: Querying for protein coding genes
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Example 3: Querying for protein coding genes
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Example 4: Querying for protein coding genes
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Example 5: Querying for protein coding genes
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Example 6: Querying for protein coding genes
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 
